@@ -1,0 +1,22 @@
+     {
+  "name": "AnimeVerse",
+  "description": "A app to watch anime for free",
+  "start_url": "/",
+  "lang": "en-GB",
+  "theme_color": "#027d8",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "static/Polish_20240310_094541862.png",
+      "sizes": "700×700",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "static/Screenshot_20240310-102044_Chrome.png",
+      "sizes": "720×1480",
+      "type": "image/png"
+    }
+  ]
+}
