@@ -1,16 +1,4 @@
-[![image](https://github.com/TechShreyash/AnimeDexLite/assets/82265247/98c27bb6-c4a8-4224-983e-2bb21386032a)](https://animedex.pages.dev)
 
-<h1 align="center"><b>AnimeDexLite v3.0</b></h1>
-
-AnimeDexLite is a pure HTML, CSS, and JS version of AnimeDex. It is lightweight, fast, ad-free, open-source, and easy to deploy. The design is responsive, and it uses Gogoanime and Anilist to get content. Powered by the blazing-fast [AnimeDexApi](https://api.anime-dex.workers.dev).
-
-## 🌐 Demo
-You can explore AnimeDexLite through the following URLs:
-
-- Main Website : https://animedex.pages.dev (On Cloudflare)
-- https://animedex-lite.netlify.app (On Netlify)
-- https://techshreyash.github.io/AnimeDexLite (On Github Pages)
-- https://animedexlite.vercel.app (On Vercel)
 
 ## 🔥 Host Your Own
 
